@@ -2,3 +2,4 @@ verde
 arancione
 viola
 nero
+rosso
