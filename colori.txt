@@ -1,2 +1,4 @@
 verde
+arancione
 viola
+rosso
